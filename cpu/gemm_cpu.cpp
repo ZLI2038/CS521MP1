@@ -49,7 +49,6 @@ void gemm_cpu_o1(float* A, float* B, float *C, int M, int N, int K) {
 }
 
 void gemm_cpu_o2(float* A, float* B, float *C, int M, int N, int K) {
-1
 }
 
 void gemm_cpu_o3(float* A, float* B, float *C, int M, int N, int K) {
